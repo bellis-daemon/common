@@ -5,6 +5,7 @@ go 1.20
 require (
 	github.com/pkg/errors v0.9.1
 	github.com/redis/go-redis/v9 v9.0.2
+	go.mongodb.org/mongo-driver v1.11.1
 )
 
 require (
